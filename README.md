@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# shop
+>>>>>>> babf5e20b1637c38c422b9561cd8393f9fa9b48b
