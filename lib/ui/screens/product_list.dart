@@ -40,6 +40,8 @@ class _ProductListPageState extends State<ProductListPage> {
       appBar: AppBar(
         title: const Text(
           'Liste des poduits',
+
+          
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
